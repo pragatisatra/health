@@ -1,14 +1,5 @@
 <docinfo> 
 
-<doctor> 
-<Did>1</Did> 
-<face>xml/3.png</face> 
-
-<name>Mikhail Varshavski</name> 
-<age>28</age> 
-<occupation>Head of Diagnostic Medicine</occupation>
-<qualification>M.D</qualification>  
-</doctor> 
 
 <doctor> 
 <Did>2 </Did> 
